@@ -9,3 +9,4 @@ streamlit
 langchain_groq
 langchain_huggingface
 langchain_text_splitters
+protobuf<=3.20.3
